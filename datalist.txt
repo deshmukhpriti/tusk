@@ -1,3 +1,6 @@
 Install the Record Viewer sample app.
 Understand the structure of the Record Viewer app.
 View a record in the Record Viewer app.
+
+Install the Record Viewer App
+Let’s get into the code! To learn about User Interface API, you’ll install the Record Viewer sample app. Use the Record Viewer app to create, read, update, and delete records. Because it’s a sample app, it also includes a user interface that displays the JSON responses from User Interface API.
